@@ -1,0 +1,48 @@
+:root {
+    --background-color: #121214;
+    --gray: #4E586E;
+    --strong: #F54B64;
+}
+
+body {
+    background-color: var(--background-color);
+    color: var(--gray);
+
+    font-family: 'Roboto Mono';
+}
+
+h1 {
+    margin-top: 1.6rem;
+    margin-left: 1.8rem;
+    font-weight: 700;
+}
+
+.container {
+    width: 15rem;
+    background-color: white;
+
+    border-radius: 0.4rem;
+    margin-left: 1.8rem;
+}
+
+strong {
+    color: #F54B64;
+}
+
+dl {
+    text-decoration: none;
+    margin-top: 3rem;
+}
+
+
+.padding-top-2 {
+    padding-top: 1rem;;
+}
+
+.main-container {
+
+
+    background-color: var(--background-color);
+    border-radius: 1rem;
+}
+    

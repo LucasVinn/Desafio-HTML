@@ -1,0 +1,9 @@
+.button,
+.checkbox {
+    margin-top: 1rem;
+}
+
+.message {
+    width: 15rem;
+    height: 10rem;
+}
